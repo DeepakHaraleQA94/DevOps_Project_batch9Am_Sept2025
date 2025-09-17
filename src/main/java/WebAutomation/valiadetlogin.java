@@ -22,6 +22,7 @@ public class valiadetlogin {
 	System.out.println(ActualTitle);
 	Assert.assertEquals(ActualTitle,"123");
 	System.out.println("succesfully landed to the home page");
+
 	}
 
 }
