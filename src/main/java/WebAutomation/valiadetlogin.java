@@ -15,7 +15,7 @@ public class valiadetlogin {
 		driver.manage().window().maximize();
 		driver.get("https://www.puneripattern.com/");
 		driver.findElement(By.xpath("(//button[@type='button'])[7]")).click();
-		
+		System.out.println("hi");
 	}
 
 }
